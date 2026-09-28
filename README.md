@@ -2,10 +2,6 @@
 <h3 align="center">Estudante de Engenharia de Software · PUC-Campinas</h3>
 
 <p align="center">
-  Construindo com o que o problema pede — de backends em Java a modelos de visão computacional treinados do zero.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/igor-ribeiro-cunha-367525333/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
