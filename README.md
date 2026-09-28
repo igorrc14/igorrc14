@@ -52,8 +52,3 @@
 | [blackjackProject](https://github.com/igorrc14/blackjackProject) | Simulação de blackjack | C++ |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igorrc14&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrc14&layout=compact&hide_title=true" alt="Top languages" height="165"/>
-</p>
