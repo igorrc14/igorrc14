@@ -35,11 +35,9 @@
 
 **[SmartScout](https://github.com/pedrofacine/PI_V_ES_TIME-15)** — plataforma de visão computacional para análise de vídeo esportivo. Envia-se o vídeo de uma partida, escolhe-se um jogador pelo número da camisa, e o sistema rastreia e recorta automaticamente os lances em que ele aparece.
 `Python` `FastAPI` `PyTorch` `YOLO` `DeepSort` `React` `TypeScript` `PostgreSQL`
-Meu trabalho: pipeline de corte de vídeo por intervalo de tempo, criação de dataset e treinamento de um modelo YOLO customizado para leitura de número de camisa (substituindo uma abordagem inicial baseada em OCR genérico).
 
 **[Vocatio](https://github.com/igorrc14/PI_IV_ES_TIME-8)** — app multiplataforma para registro de presença universitária. Substitui a chamada oral por QR Code dinâmico, geolocalização e autenticação biométrica, reduzindo tempo de aula, evitando faltas injustas e gerando relatórios automáticos para alunos e professores.
 `Java` `Flutter/Dart` `MongoDB` `JUnit`
-Meu trabalho: endpoints do servidor Java (abertura de chamada, criação de turma, consultas de alunos/aulas) e modelo de usuário ligado ao início do reconhecimento facial.
 
 ---
 
@@ -48,7 +46,6 @@ Meu trabalho: endpoints do servidor Java (abertura de chamada, criação de turm
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [Projeto_Integrador_24](https://github.com/igorrc14/Projeto_Integrador_24) | Sistema de cadastro de produtos com cálculo de preço e lucro | Python |
-| [Grupo5_Projeto_Integrador_2_24](https://github.com/igorrc14/Grupo5_Projeto_Integrador_2_24) | Simulação de plataforma de apostas esportivas (tema acadêmico) | Node.js |
 | [Trabalho_RPG](https://github.com/igorrc14/Trabalho_RPG) | Jogo de RPG explorando herança e polimorfismo | Java |
 | [Minimax_JogoDaVelha](https://github.com/igorrc14/Minimax_JogoDaVelha) | Jogo da velha com IA via algoritmo Minimax | Python |
 | [Calculadora-Resistores](https://github.com/igorrc14/Calculadora-Resistores) | Calculadora de resistores | Kotlin |
